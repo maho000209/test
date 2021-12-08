@@ -1,8 +1,2 @@
 # test
-jalkdjfalk
-adsjkoflajdsflkasdfj
-
-adsfa
-adsfas
-adsf
-adsf
+실험용 저장소 입니다.
